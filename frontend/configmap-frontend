@@ -4,4 +4,4 @@ metadata:
   name: frontend-config
   namespace: accommodations
 data:
-  VITE_API_URL: "http://backend:8080"
+  VITE_API_URL: "http://accommodations.local/api"
